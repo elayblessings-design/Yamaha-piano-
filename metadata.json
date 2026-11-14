@@ -1,0 +1,6 @@
+{
+  "name": "Yamaha Piano",
+  "description": "Professional Yamaha-inspired keyboard & synthesizer workstation featuring realistic acoustic & FM instruments, drum machine with diverse percussion kits, beat sequencer, and MIDI recording.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
